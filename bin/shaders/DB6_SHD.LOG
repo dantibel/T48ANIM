@@ -1,0 +1,30 @@
+snow/geom.glsl
+0(46) : error C1503: undefined variable "MatrP"
+0(50) : error C1503: undefined variable "MatrP"
+0(54) : error C1503: undefined variable "MatrP"
+0(58) : error C1503: undefined variable "MatrP"
+
+snow/geom.glsl
+0(46) : error C1503: undefined variable "MatrP"
+0(50) : error C1503: undefined variable "MatrP"
+0(54) : error C1503: undefined variable "MatrP"
+0(58) : error C1503: undefined variable "MatrP"
+
+snow/geom.glsl
+0(46) : error C1503: undefined variable "MatrP"
+0(50) : error C1503: undefined variable "MatrP"
+0(54) : error C1503: undefined variable "MatrP"
+0(58) : error C1503: undefined variable "MatrP"
+
+default/vert.glsl
+0(42) : error C1115: unable to find compatible overloaded function "inverse(vec4)"
+
+default/vert.glsl
+0(42) : error C1115: unable to find compatible overloaded function "inverse(vec4)"
+
+default/vert.glsl
+0(42) : error C1115: unable to find compatible overloaded function "inverse(vec4)"
+
+default/vert.glsl
+0(42) : error C1115: unable to find compatible overloaded function "inverse(vec4)"
+

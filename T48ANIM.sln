@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T48ANIM", "T48ANIM.vcxproj", "{CFBC3DC0-36CF-4A66-B503-4885FFD3FE23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBC3DC0-36CF-4A66-B503-4885FFD3FE23}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFBC3DC0-36CF-4A66-B503-4885FFD3FE23}.Debug|Win32.Build.0 = Debug|Win32
+		{CFBC3DC0-36CF-4A66-B503-4885FFD3FE23}.Release|Win32.ActiveCfg = Release|Win32
+		{CFBC3DC0-36CF-4A66-B503-4885FFD3FE23}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C355E30F-1158-4B17-B742-EE1D46B23F68}
+	EndGlobalSection
+EndGlobal
